@@ -1,0 +1,15 @@
+﻿  Level1.cpp
+c:\users\macko\source\repos\transition\transition\hptimer.h(38): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\macko\source\repos\transition\transition\hptimer.h(44): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\macko\source\repos\transition\transition\level1.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\macko\source\repos\transition\transition\level1.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\macko\source\repos\transition\transition\level1.cpp(43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\macko\source\repos\transition\transition\level1.cpp(49): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\macko\source\repos\transition\transition\level1.cpp(72): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\macko\source\repos\transition\transition\level1.cpp(80): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\macko\source\repos\transition\transition\level1.cpp(87): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\macko\source\repos\transition\transition\level1.cpp(90): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\macko\source\repos\transition\transition\level1.cpp(97): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\macko\source\repos\transition\transition\level1.cpp(99): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\macko\source\repos\transition\transition\level1.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  transition.vcxproj -> C:\Users\macko\source\repos\transition\Debug\transition.exe
